@@ -1,3 +1,5 @@
+lembrar de colocar o ip do host nos arquivos de configurações do Bind9
+(host hospedeiro)
 Criar a rede no docker
 
 docker network create --subnet=172.25.0.0/24 ctnetwork
